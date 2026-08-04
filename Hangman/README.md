@@ -1,4 +1,6 @@
 # Hangman - Lessons Learned
+
+**Date Finished:** July 18, 2026
 This project taught me that programming is more about **logic** than syntax.
 
 ### What I learned

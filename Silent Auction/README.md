@@ -1,5 +1,7 @@
 # Silent Auction
 
+**Date Finished:** August 4, 2026
+
 This is my implementation of the Blind (Silent) Auction program.
 
 ## What I Made

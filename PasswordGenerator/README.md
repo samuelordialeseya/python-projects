@@ -1,5 +1,7 @@
 # Password Generator
 
+**Date Finished:** July 16, 2026
+
 This is a Python program that generates a strong, random password based on the user's desired number of letters, symbols, and numbers.
 
 ## What I Learned
