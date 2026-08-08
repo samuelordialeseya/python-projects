@@ -7,7 +7,7 @@ This is my implementation of the Object-Oriented Programming (OOP) Coffee Machin
 ## What I Made
 I built a Python program that simulates a digital coffee machine using multiple external classes (`Menu`, `CoffeeMaker`, and `MoneyMachine`). The program prompts users for a drink selection, dynamically checks if there are enough ingredients left, processes coin payments sequentially, calculates accurate change, and updates its internal resource logs after every successful transaction.
 
-## What I Learned (Comparing my code to Angela Yu's)
+## What I Learned 
 
 I learned a few important lessons about logic refinement, object interactions, and debugging:
 
